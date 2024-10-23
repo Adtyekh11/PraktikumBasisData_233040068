@@ -1,0 +1,22 @@
+INSERT INTO Mahasiswa (id, NPM, nama, tanggal_lahir, alamat, no_hp)
+VALUES
+(1, '233040068', 'Aditya Eka Heriyawan', '2005-01-01', 'Jl. Talun no 12', '0876545432'),
+(2, '233040073', 'Rafi Asmaul Rizal', '2005-11-19', 'Jl. Lengkong no 2', '0876545456'),
+(3, '233040058', 'Ananda Rizky Maulana', '2005-10-25', 'Jl. Ledeng', '0876545276'),
+(4, '233040042', 'Muhamad Rizky', '2004-11-05', 'Jl. Lengkong no 17', '0876545832'),
+(5, '233040037', 'Candra Kirana', '2005-07-28', 'Jl. Haji Ridho no 2', '0876545456'),
+(6, '233040055', 'Kiboy', '2005-11-19', 'Jl. Lengkong no 2', '0876545456'),
+(7, '233040077', 'Muned Algharo', '2005-08-19', 'Jl. Lengkong no 2', '0876545456'),
+(8, '233040079', 'Rizaldi', '2005-07-29', 'Jl. Lengkong no 2', '0876545456'),
+(9, '233040080', 'Rafiansah', '2005-06-01', 'Jl. Lengkong no 2', '0876545456'),
+(10, '233040123', 'Rizal Kagum', '2005-05-04', 'Jl. Lengkong no 2', '0876545456'),
+(11, '233040100', 'Ahmad Rizal', '2005-04-05', 'Jl. Lengkong no 2', '0876545456'),
+(12, '233040033', 'Naruto', '2005-03-19', 'Jl. Lengkong no 2', '0876545456'),
+(13, '233040055', 'Desta', '2005-02-08', 'Jl. Lengkong no 2', '0876545456'),
+(14, '233040003', 'Vincent', '2005-11-27', 'Jl. Lengkong no 2', '0876545456'),
+(15, '233040033', 'Sule', '2005-11-08', 'Jl. Lengkong no 2', '0876545456'),
+(16, '233040043', 'Andre', '2005-10-19', 'Jl. Lengkong no 2', '0876545456'),
+(17, '233040076', 'alfi Nazran', '2005-05-19', 'Jl. Lengkong no 2', '0876545456'),
+(18, '233040032', 'Sasuke', '2005-01-02', 'Jl. Lengkong no 2', '0876545456'),
+(19, '233040563', 'Rizki Yana', '2005-11-11', 'Jl. Lengkong no 2', '0876545456'),
+(20, '233040023', 'Jaja Rio', '2005-12-14', 'Jl. Lengkong no 2', '0876545456');
